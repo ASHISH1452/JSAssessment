@@ -1,3 +1,5 @@
+
+
 /*
 Assessment Requirements
 1. Create a variable that can hold a number of NFT's. What type of variable might this be?
@@ -47,9 +49,9 @@ function getTotalSupply() {
 }
 
 // call your functions below this line
-mintNFT("Bob","Blue","Hoodie","Gold Chain");
-mintNFT("Sun","Blue","Hoodie","Gold Chain");
-mintNFT("Tim","Blue","Hoodie","Gold Chain");
-mintNFT("Jogn","Blue","Hoodie","Gold Chain");
+mintNFT("Ashish","Black","Shirt","Gold Chain");
+mintNFT("blue","Black","Shirt","Gold Chain");
+mintNFT("long","Black","Shirt","Gold Chain");
+mintNFT("LOVE","Black","Shirt","Gold Chain");
 listNFTs();
 getTotalSupply();
